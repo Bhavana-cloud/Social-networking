@@ -1,0 +1,25 @@
+                                                 SOCIAL NETWORK FOR COLLEGE STUDENTS 
+
+SYNOPSIS:
+* The "social networking site" has been developed override the problems preventing in the practising manual system.
+*The software were is sopportedto eleminate and in some cases reduce the hardships faced by this existing system.
+*More over the system is designed for the perticular need of the college to carryout operations in smoothj and effective manner.
+*Every social network sites has different users needs,therefore we design exclusive employe management system that are adopted to your managerial requirements.
+
+FUNCTIONALITIES PROVIDED BY SOCIAL NETWORKING :
+*It tracks all the information of freinds ,videos,shares etc.
+*Shows the information and description of the users posts.
+*Editing ,adding and updating of recordsis improved which results in proper resource management of user data.
+
+FEATURES:
+1: student ,teachers profile
+2:class groups
+3: discussion forum
+4:blogs for research paper
+5:Notes section
+
+PROBLEMS IT SOLVE:
+1:easy access of ebooks and notes 
+2: efficient student teacher interaction
+3:online classroom videos
+4:college updates
